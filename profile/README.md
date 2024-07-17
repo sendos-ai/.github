@@ -1,4 +1,6 @@
-## Sendos AI 👋
+![sendos](../assets/sendos_logo.png)
+
+# Sendos AI 👋
 
 🙋‍♀️ Los empleados ya no se quedan solo por un buen salario, un buen liderazgo o una sala de juegos. Ahora, buscan algo más personal y duradero: un futuro prometedor dentro de la empresa, oportunidades de crecimiento y un sentido de propósito en su trabajo. Crear sus propios Senderos de Carrera.
 
@@ -6,7 +8,7 @@ Pero en muchas organizaciones, ese futuro es difícil de ver. Los caminos para a
 
 En Sendos, creemos que no tiene por qué ser así. Creemos que cada persona debería poder ver claramente su futuro dentro de la empresa y que cada líder debería tener las herramientas para hacer ese futuro realidad.
 
-🌈 Nuestra innovadora solución de inteligencia artificial generativa se enfoca en la movilidad interna y desarrollo de talento. Con Sendos, podrás:
+### 🌈 Nuestra innovadora solución de inteligencia artificial generativa se enfoca en la movilidad interna y desarrollo de talento. Con Sendos, podrás:
 
 - Descubrir y aprovechar el talento oculto dentro de tu organización.
 - Empoderar a tus colaboradores para que tomen las riendas de su carrera.
@@ -19,4 +21,4 @@ En Sendos, creemos que no tiene por qué ser así. Creemos que cada persona debe
 👩‍💻 ¿Está lista tu organización para dejar atrás las viejas formas de hacer las cosas y abrazar un futuro donde el talento florece y permanece comprometido?
 Sendos estará disponible pronto para más empresas, si quieres ser parte de la revolución del talento déjanos tu correo para tener acceso exclusivo a ideas y actualizaciones sobre el futuro de la movilidad interna y el desarrollo del talento.
 
-🧙 El mejor talento, el que necesitas, está más cerca de lo que crees. Con Sendos, lo harás brillar.
+## 🧙 El mejor talento, el que necesitas, está más cerca de lo que crees. Con Sendos, lo harás brillar.

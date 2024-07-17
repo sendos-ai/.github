@@ -1,3 +1,5 @@
+![sendos](assets/sendos_logo.png)
+
 # Sendos AI
 
 sendos-ai/.github is a special repository.
